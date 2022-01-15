@@ -1,3 +1,3 @@
-# Exercism - Go Track
+# Exercism - Go
 
-Completing the Go track at https://exercism.org
+Solutions for the Go track at https://exercism.org
